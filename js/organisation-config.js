@@ -33,7 +33,7 @@ var organisationConfig = {
     useLogo: true,
     useLabel: true,
 //    noTOC: true,
-//    maxTocLevel: 1,
+    maxTocLevel: 5,
 
     license: "cc-by",
     addSectionLinks: true,
