@@ -1,15 +1,16 @@
 var organisationConfig = {
-    nl_organisationName: "VNG Realisatie22",
+    nl_organisationName: "Samen onder Handbereik",
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-    nl_organisationPublishURL: "https://vng-realisatie.github.io/publicatie",
+    nl_organisationPublishURL: "https://samen-onder-handbereik.github.io/afsprakenstelsel/",
+	// nl_organisationPublishURL: "https://vng-realisatie.github.io/publicatie",
     // Het hier gedefinieerde logo wordt helemaal bovenaan het Respec document aan de rechterzijde geplaatst.
     // Er is voor gekozen de 'width' property niet te gebruiken waardoor het logo automatisch in de juiste verhoudingen wordt geplaatst.
     logos: [{
         src: "https://vng-realisatie.github.io/VNG-R-Respec-Organization-configurations/media/logo-VNG-Realisatie.jpg",
-        alt: "VNG-Realisatie",
-        id: "VNG-Realisatie",
+        alt: "Samen-onder-Handbereik",
+        id: "Samen-onder-Handbereik",
         height: 77,
-        url: "https://www.vng.nl",
+        url: "https://samen-onder-handbereik.github.io/afsprakenstelsel/",
     }],
 
    // Mermaid is een eenvoudige notatie-wijze voor het definieren van  diverse soorten diagrammen. Onderstaande 'postProcess' maakt van die eenvoudige notatie een grafiek.
