@@ -1,5 +1,5 @@
 var organisationConfig = {
-    nl_organisationName: "VNG Realisatie",
+    nl_organisationName: "VNG Realisatie22",
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
     nl_organisationPublishURL: "https://vng-realisatie.github.io/publicatie",
     // Het hier gedefinieerde logo wordt helemaal bovenaan het Respec document aan de rechterzijde geplaatst.
