@@ -20,7 +20,8 @@ let respecConfig = {
   
   title: "Specificaties van samenwerkpatronen, API's en events",
   subtitle: "Van het Samen onder Handbereik Jeugd-, Zorg- en Veiligheid Afsprakenstelsel",
-  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
+  content: {"README": "informative"},
+//  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
 //      {
