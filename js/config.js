@@ -11,30 +11,30 @@ let respecConfig = {
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IO",
   publishDate: "2025-12-24",
-  publishVersion: "0.2.1",
+  publishVersion: "0.0.2",
 
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane maturities
   //previousMaturity: "IO",
-  //previousPublishDate: "2022-06-24",
-  //previousPublishVersion: "0.0.4",
+  //previousPublishDate: "2025-12-23",
+  //previousPublishVersion: "0.0.1",
   
-  title: "Respec documentatie generatie11",
-  subtitle: "Tevens een voorbeeld van een gegenereerd Respec document11",
+  title: "Specificaties van samenwerkpatronen, API's en events",
+  subtitle: "Van het het Samen onder Handbereik Jeugd-, Zorg- en Veiligheid Afsprakenstelsel",
   content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
 //      {
-//        name: "Robert Melskens",
-//        company: "VNG Realisatie",
-//        companyURL: "https://vng.nl/artikelen/vng-realisatie",
+//        name: "Team Samen onder Handbereik",
+//        company: "DGSenB",
+//        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid",
 //      }
 //    ],
   editors:
     [
       {
-        name: "Robert Melskens11",
-        company: "VNG Realisatie11",
-        companyURL: "https://vng.nl/artikelen/vng-realisatie",
+        name: "Team Samen onder Handbereik",
+        company: "DGSenB",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid",
       }
     ],
   github: "https://github.com/VNG-Realisatie/VNG-R-Respec-Template",
@@ -45,7 +45,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "hl-Respec-template-0.2.0.pdf",
+          uri: "hl-Respec-template-0.0.2.pdf",
   //        uri: "Respec-bij-VNG-R.pdf",
       },
     ],

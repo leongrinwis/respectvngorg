@@ -1,15 +1,16 @@
 var organisationConfig = {
-    nl_organisationName: "VNG Realisatie22",
+    nl_organisationName: "Samen onder Handbereik",
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-    nl_organisationPublishURL: "https://vng-realisatie.github.io/publicatie",
+    nl_organisationPublishURL: "https://leongrinwis.github.io/respectvngorg/",
+	// nl_organisationPublishURL: "https://vng-realisatie.github.io/publicatie",
     // Het hier gedefinieerde logo wordt helemaal bovenaan het Respec document aan de rechterzijde geplaatst.
     // Er is voor gekozen de 'width' property niet te gebruiken waardoor het logo automatisch in de juiste verhoudingen wordt geplaatst.
     logos: [{
-        src: "https://vng-realisatie.github.io/VNG-R-Respec-Organization-configurations/media/logo-VNG-Realisatie.jpg",
-        alt: "VNG-Realisatie",
-        id: "VNG-Realisatie",
+        src: "/media/handenblauwlogosmall.png",
+        alt: "Samen-onder-Handbereik",
+        id: "Samen-onder-Handbereik",
         height: 77,
-        url: "https://www.vng.nl",
+        url: "https://samen-onder-handbereik.github.io/afsprakenstelsel/",
     }],
 
    // Mermaid is een eenvoudige notatie-wijze voor het definieren van  diverse soorten diagrammen. Onderstaande 'postProcess' maakt van die eenvoudige notatie een grafiek.
@@ -31,7 +32,7 @@ var organisationConfig = {
 //    noTOC: true,
 //    maxTocLevel: 1,
 
-    license: "eupl",
+    license: "cc-by",
     addSectionLinks: true,
 
     localizationStrings: {
@@ -77,8 +78,8 @@ var organisationConfig = {
     sotdText: {
         nl: {
             sotd: "Status van dit document",
-            cv: `Dit is een door het TO goedgekeurde consultatieversie. Commentaar over dit document kan gestuurd worden naar `,
-            vv: `Dit is een definitief concept van de nieuwe versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.`,
+            cv: `Dit is een consultatieversie. Commentaar over dit document kan gestuurd worden naar `,
+            vv: `Dit is een definitief concept. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.`,
 	    ig: "Dit document is 'In Gebruik'.",
 	    io: "Dit document is nog 'In Ontwikkeling'.",
         },
