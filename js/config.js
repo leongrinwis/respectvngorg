@@ -24,9 +24,9 @@ let respecConfig = {
 //  authors:
 //    [
 //      {
-//        name: "Robert Melskens",
-//        company: "VNG Realisatie",
-//        companyURL: "https://vng.nl/artikelen/vng-realisatie",
+//        name: "Team Samen onder Handbereik",
+//        company: "DGSenB",
+//        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid",
 //      }
 //    ],
   editors:
