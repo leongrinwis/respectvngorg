@@ -37,7 +37,7 @@ let respecConfig = {
         companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-justitie-en-veiligheid",
       }
     ],
-  github: "https://github.com/VNG-Realisatie/VNG-R-Respec-Template",
+  github: "https://github.com/leongrinwis/respectvngorg",
 
   //  maxTocLevel: 2,
 
@@ -45,7 +45,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "hl-Respec-template-0.0.2.pdf",
+          uri: "Respec-template.pdf",
   //        uri: "Respec-bij-VNG-R.pdf",
       },
     ],
