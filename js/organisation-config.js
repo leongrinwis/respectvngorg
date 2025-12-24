@@ -6,7 +6,7 @@ var organisationConfig = {
     // Het hier gedefinieerde logo wordt helemaal bovenaan het Respec document aan de rechterzijde geplaatst.
     // Er is voor gekozen de 'width' property niet te gebruiken waardoor het logo automatisch in de juiste verhoudingen wordt geplaatst.
     logos: [{
-        src: "/media/handenblauwlogosmall.png",
+        src: "https://leongrinwis.github.io/respectvngorg/media/handenblauwlogosmall.png",
         alt: "Samen-onder-Handbereik",
         id: "Samen-onder-Handbereik",
         height: 77,
@@ -23,9 +23,12 @@ var organisationConfig = {
    //this: "this", <-- Zo kun je dus eigen variabelen introduceren die je ergens anders kunt gebruiken.
    // Zoals bijv. hier --> 'thisVersion: ["nl_organisationPublishURL", "this", "/", "shortName"],'
 
-   latestVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName"],
-   thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "publishVersion"],
-   prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "previousPublishVersion"],
+   // latestVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName"],
+   // thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "publishVersion"],
+   // prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "previousPublishVersion"],
+   latestVersion: ["nl_organisationPublishURL"],
+   thisVersion: ["nl_organisationPublishURL"],
+   prevVersion: ["nl_organisationPublishURL"],
 
     useLogo: true,
     useLabel: true,
