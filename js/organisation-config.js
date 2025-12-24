@@ -80,8 +80,8 @@ var organisationConfig = {
             sotd: "Status van dit document",
             cv: `Dit is een consultatieversie. Commentaar over dit document kan gestuurd worden naar `,
             vv: `Dit is een definitief concept. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.`,
-	    ig: "Dit document is 'In Gebruik'.",
-	    io: "Dit document is nog 'In Ontwikkeling'.",
+	    ig: "Dit document is 'In gebruik'.",
+	    io: "Dit document is nog 'In ontwikkeling'.",
         },
 //      en: {
 //          sotd: "Status of This Document",
