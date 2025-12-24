@@ -10,16 +10,16 @@ let respecConfig = {
   
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IO",
-  publishDate: "2024-05-16",
-  publishVersion: "0.2.0",
+  publishDate: "2025-12-24",
+  publishVersion: "0.2.1",
 
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane maturities
   //previousMaturity: "IO",
   //previousPublishDate: "2022-06-24",
   //previousPublishVersion: "0.0.4",
   
-  title: "Respec documentatie generatie",
-  subtitle: "Tevens een voorbeeld van een gegenereerd Respec document",
+  title: "Respec documentatie generatie11",
+  subtitle: "Tevens een voorbeeld van een gegenereerd Respec document11",
   content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
@@ -32,8 +32,8 @@ let respecConfig = {
   editors:
     [
       {
-        name: "Robert Melskens",
-        company: "VNG Realisatie",
+        name: "Robert Melskens11",
+        company: "VNG Realisatie11",
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
